@@ -348,6 +348,9 @@ footer .links ul li a:hover{
     .hero h1::before{
         width: 30%;
     }
+    .hero{
+        padding-top: 6rem;
+    }
     .features .card{
         display: flex;
         flex-direction: column-reverse;
